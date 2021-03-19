@@ -48,6 +48,18 @@ public class Main {
 					
 			}
 				
+					else if (choice==3) {
+						
+					System.out.println("Aqui deve aparecer os livros cadastrados.");
+						
+				}
+				
+					else if (choice==4) {
+						
+					System.out.println("Aqui deve aparecer os autores cadastrados.");
+						
+			}
+			
 		}
 		
 	}
