@@ -12,7 +12,7 @@ public class Main {
 		
 		while(choice !=3) {
 			
-			System.out.println("1 - Adicionar um livro / 2 - Adicionar um autor");
+			System.out.println("1 - Adicionar um livro / 2 - Adicionar um autor / 3 - Livros / 4 - Autores");
 			
 			choice =obj.nextInt();
 			
